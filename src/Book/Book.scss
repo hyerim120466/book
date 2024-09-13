@@ -1,0 +1,47 @@
+#wrap {
+  width: 100%;
+  min-width: 1400px;
+  display: flex;
+  padding: 100px;
+  .book {
+    width: 350px;
+    border: 1px solid #000;
+    padding: 17px;
+    box-sizing: border-box;
+    position: relative;
+    margin-right: 20px;
+    .total {
+      font-size: 18px;
+      font-weight: 700;
+      margin-bottom: 40px;
+    }
+    .btn {
+      font-size: 15px;
+      color: #fff;
+      font-weight: 600;
+      border-radius: 30px;
+      background: #000;
+      display: block;
+      width: 90px;
+      height: 40px;
+      position: absolute;
+      top: 15px;
+      right: 10px;
+      border: none;
+      input {
+      }
+    }
+    .first {
+      background: #000;
+      font-size: 15px;
+      color: #fff;
+      font-weight: 600;
+      margin: auto;
+      display: block;
+      width: 125px;
+      height: 35px;
+      cursor: pointer;
+      border: none;
+    }
+  }
+}
