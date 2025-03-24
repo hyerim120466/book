@@ -8,6 +8,6 @@
 - 새로운 친구를 추가하거나 목록을 초기화할 수 있습니다
 
 ## 🛠️ 기술 스택
-- **Frontend:** HTML, CSS, JavaScript
+- **Frontend:** HTML, CSS, JavaScript ,Scss
 - **라이브러리:** React
 - **배포:** GitHub Pages
