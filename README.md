@@ -1,8 +1,13 @@
-# React + Vite
+# 📖 친구 프로필 관리 웹사이트
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+이 웹사이트는 사용자가 친구 목록을 관리하고, 각 친구의 상세 프로필을 조회할 수 있는 페이지 입니다.
 
-Currently, two official plugins are available:
+## 🎯 주요 기능
+- 친구 목록을 확인하고 선택할 수 있습니다.
+- 선택한 친구의 프로필(이미지, 나이, 설명 등)을 상세히 확인할 수 있습니다.
+- 새로운 친구를 추가하거나 목록을 초기화할 수 있습니다
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ 기술 스택
+- **Frontend:** HTML, CSS, JavaScript
+- **라이브러리:** React (필요하면 추가)
+- **배포:** GitHub Pages
